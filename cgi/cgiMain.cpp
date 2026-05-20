@@ -19,7 +19,6 @@ Cgi::Cgi()
 
 Cgi::~Cgi()
 {
-
 }
 
 std::string    Cgi::getcgiBody()
